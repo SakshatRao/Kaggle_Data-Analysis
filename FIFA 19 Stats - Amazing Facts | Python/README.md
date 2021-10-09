@@ -1,4 +1,4 @@
-## My Kaggle Kernel Link:
+## My Kaggle Notebook Link:
 https://www.kaggle.com/sakshatrao/fifa-19-stats-amazing-facts-python
 
 ## Kaggle Dataset Link:

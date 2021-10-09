@@ -1,4 +1,4 @@
-## My Kaggle Kernel Link:
+## My Kaggle Notebook Link:
 https://www.kaggle.com/sakshatrao/olympics-the-pinnacle-of-sports-python
 
 ## Kaggle Dataset Link:

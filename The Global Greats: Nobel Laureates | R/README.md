@@ -1,4 +1,4 @@
-## My Kaggle Kernel Link:
+## My Kaggle Notebook Link:
 https://www.kaggle.com/sakshatrao/the-global-greats-nobel-laureates-r
 
 ## Kaggle Dataset Link:
